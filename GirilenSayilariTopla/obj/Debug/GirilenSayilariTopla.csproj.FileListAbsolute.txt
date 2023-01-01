@@ -1,0 +1,8 @@
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\obj\Debug\GirilenSayilariTopla.csproj.AssemblyReference.cache
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\obj\Debug\GirilenSayilariTopla.csproj.SuggestedBindingRedirects.cache
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\obj\Debug\GirilenSayilariTopla.csproj.CoreCompileInputs.cache
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\bin\Debug\GirilenSayilariTopla.exe.config
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\bin\Debug\GirilenSayilariTopla.exe
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\bin\Debug\GirilenSayilariTopla.pdb
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\obj\Debug\GirilenSayilariTopla.exe
+C:\Users\gulca\OneDrive\Masaüstü\GirilenSayilariTopla\obj\Debug\GirilenSayilariTopla.pdb
